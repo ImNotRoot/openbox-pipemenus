@@ -10,7 +10,7 @@
     * xdg-open
     * file ~/.local/share/recently-used.xbel
 * ##### __Use__
-    * add "<menu execute="python /phat/to/file/openbox-pipemenu-recent.py" id="pipe-recentfilesmenu" label="recent files"/>" to your file menu.xml
+    * add " <_menu execute="python /phat/to/file/openbox-pipemenu-recent.py" id="pipe-recentfilesmenu" label="recent files"_/> " to your file menu.xml
 #
 ****
 ### openbox-pipemenu-steam
@@ -19,7 +19,7 @@
     * python
     * steam (duhhh)
 * ##### __Use__
-    * add "<menu execute="python /phat/to/file/openbox-pipemenu-steam.py" id="pipe-steamgames" label="games"/>" to your file menu.xml
+    * add " <_menu execute="python /phat/to/file/openbox-pipemenu-steam.py" id="pipe-steamgames" label="games"_/> " to your file menu.xml
 #
 #
 ###### You feel free to see the code and modify them
